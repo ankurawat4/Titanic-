@@ -5,13 +5,13 @@ factors helping in Surviving.
 
 Some of the evaluations listed below:
 
-Distribution of passengers age
+Distribution of passengers age (Fig 1)
 ![alt text](https://github.com/ankurawat4/Titanic-/blob/master/Fig_1.png)
 
-first class passengers were more likely to survive
+first class passengers were more likely to survive (Fig 2)
 ![alt text](https://github.com/ankurawat4/Titanic-/blob/master/Fig_2.png)
 
-females were more likely to survive
+females were more likely to survive (Fig 3)
 ![alt text](https://github.com/ankurawat4/Titanic-/blob/master/Fig_3.png)
 
 
@@ -20,14 +20,7 @@ females were more likely to survive
 
 
 The **Result of the Classification Report** 
+![alt text](https://github.com/ankurawat4/Titanic-/blob/master/Fig_5.png)
 
-                   precision    recall  f1-score   support
-
-           0       0.82      0.92      0.87       159
-           1       0.86      0.70      0.77       109
-
-    accuracy                           0.83       268
-   macro avg       0.84      0.81      0.82       268
-weighted avg       0.84      0.83      0.83       268
 
 Accuracy : 0.83
