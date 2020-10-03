@@ -8,7 +8,7 @@ Some of the evaluations listed below:
 Distribution of passengers age (Fig 1)
 ![alt text](https://github.com/ankurawat4/Titanic-/blob/master/Fig_1.png)
 
-first class passengers were more likely to survive (Fig 2)
+First class passengers were more likely to survive (Fig 2)
 ![alt text](https://github.com/ankurawat4/Titanic-/blob/master/Fig_2.png)
 
 females were more likely to survive (Fig 3)
